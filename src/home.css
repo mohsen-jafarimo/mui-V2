@@ -1,0 +1,9 @@
+.products {
+  background-color: red;
+  display: grid;
+  grid-template-columns: repeat(3fr, 4);
+}
+img {
+  width: 100%;
+  height: fit-content;
+}
